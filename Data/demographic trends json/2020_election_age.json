@@ -1,0 +1,42 @@
+[
+ {
+    "demographic": "18-29",
+    "vote": 62,
+    "party": "Democrat"
+  },
+  {
+    "demographic": "18-29",
+    "vote": 35,
+    "party": "Republican"
+  },
+  {
+    "demographic": "30-44",
+    "vote": 52,
+    "party": "Democrat"
+  },
+  {
+    "demographic": "30-44",
+    "vote": 45,
+    "party": "Republican"
+  },
+  {
+    "demographic": "45-64",
+    "vote": 50,
+    "party": "Democrat"
+  },
+  {
+    "demographic": "45-64",
+    "vote": 49,
+    "party": "Republican"
+  },
+  {
+    "demographic": "65+",
+    "vote": 48,
+    "party": "Democrat"
+  },
+  {
+    "demographic": "65+",
+    "vote": 51,
+    "party": "Republican"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "demographic": "College educated",
+    "vote": 55,
+    "party": "Democrat"
+  },
+  {
+    "demographic": "College educated",
+    "vote": 42,
+    "party": "Republican"
+  },
+  {
+    "demographic": "Not college educated",
+    "vote": 49,
+    "party": "Democrat"
+  },
+  {
+    "demographic": "Not college educated",
+    "vote": 49,
+    "party": "Republican"
+  }
+]

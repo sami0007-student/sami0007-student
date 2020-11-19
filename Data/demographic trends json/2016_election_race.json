@@ -1,0 +1,52 @@
+[
+  {
+    "demographic": "White",
+    "vote": 37,
+    "party": "Democrat"
+  },
+  {
+    "demographic": "White",
+    "vote": 57,
+    "party": "Republican"
+  },
+  {
+    "demographic": "Black",
+    "vote": 89,
+    "party": "Democrat"
+  },
+  {
+    "demographic": "Black",
+    "vote": 8,
+    "party": "Republican"
+  },
+  {
+    "demographic": "Hispanic/Latino",
+    "vote": 66,
+    "party": "Democrat"
+  },
+  {
+    "demographic": "Hispanic/Latino",
+    "vote": 28,
+    "party": "Republican"
+  },
+  {
+    "demographic": "Asian",
+    "vote": 65,
+    "party": "Democrat"
+  },
+  {
+    "demographic": "Asian",
+    "vote": 27,
+    "party": "Republican"
+  },
+  {
+    "demographic": "Other",
+    "vote": 56,
+    "party": "Democrat"
+  },
+  {
+    "demographic": "Other",
+    "vote": 36,
+    "party": "Republican"
+  }
+]

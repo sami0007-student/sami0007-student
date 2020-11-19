@@ -1,0 +1,22 @@
+[
+  {
+    "demographic": "Men",
+    "vote": 48,
+    "party": "Democrat"
+  },
+  {
+    "demographic": "Men",
+    "vote": 49,
+    "party": "Republican"
+  },
+  {
+    "demographic": "Women",
+    "vote": 56,
+    "party": "Democrat"
+  },
+  {
+    "demographic": "Women",
+    "vote": 43,
+    "party": "Republican"
+  }
+]

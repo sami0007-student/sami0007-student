@@ -1,0 +1,27 @@
+﻿demographic,vote,party
+Men,48,Democrat
+Men,49,Republican
+Women,56,Democrat
+Women,43,Republican
+White,42,Democrat
+White,57,Republican
+Black,87,Democrat
+Black,12,Republican
+Hispanic/Latino,66,Democrat
+Hispanic/Latino,32,Republican
+Asian,63,Democrat
+Asian,31,Republican
+Other,58,Democrat
+Other,40,Republican
+18-29,62,Democrat
+18-29,35,Republican
+30-44,52,Democrat
+30-44,45,Republican
+45-64,50,Democrat
+45-64,49,Republican
+65+,48,Democrat
+65+,51,Republican
+College educated,55,Democrat
+College educated,42,Republican
+Not college educated,49,Democrat
+Not college educated,49,Republican
